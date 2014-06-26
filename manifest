@@ -1,0 +1,9 @@
+#appname:StoreApp
+#appid:com.mode54.storeapp
+#type:ipad
+#guid:8170d5ae-40fe-4483-8cc9-83d42e9d601e
+#version:1.0
+#publisher:Mode54.com
+#url:http://Mode54.com
+#image:appicon.png
+#desc:Demo of StoreApp Template

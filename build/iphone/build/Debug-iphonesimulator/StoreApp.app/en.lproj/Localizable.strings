@@ -1,0 +1,25 @@
+/**
+ * Appcelerator Titanium
+ * this is a generated file - DO NOT EDIT
+ */
+
+"storeName" = "StoreApp Demo";
+"home" = "Home";
+"products" = "Products";
+"info" = "Info";
+"cart" = "Cart";
+"featuredTitle" = "Featured Items";
+"details" = "Details";
+"addToCart" = "Add to Cart";
+"purchaseOptionsFor" = "Purchase Options For:";
+"version" = "Version";
+"loading" = "Loading";
+"total" = "Total";
+"paypal_lang" = "en_US";
+"checkout" = "Checkout";
+"done" = "Done";
+"yourCartIsEmpty" = "Your Cart Is Empty";
+"subtotal" = "Subtotal";
+"delete" = "Delete";
+"cancel" = "Cancel";
+"removeThisItem" = "Would you like to remove this item?";

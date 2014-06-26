@@ -1,0 +1,1 @@
+/Users/lucheins/Desktop/LucaMobile Development/Store Demo/Resources/core/CartManager.js

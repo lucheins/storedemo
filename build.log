@@ -1,0 +1,21 @@
+Logfile initialized
+[INFO] logfile = /Users/lucheins/Desktop/LucaMobile Development/Store Demo/build.log
+[DEBUG] /Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/builder.py emulator StoreApp /Applications /Users/lucheins/Desktop/LucaMobile Development/Store Demo com.lucamobile.storeapp 5 WQVGA432 armeabi-v7a
+[INFO] Building StoreApp for Android ... one moment
+[INFO] Launching Android emulator...one moment
+[DEBUG] From: /Applications/tools/emulator
+[DEBUG] SDCard: /Users/lucheins/.titanium/android2.sdcard
+[DEBUG] AVD ID: 5
+[DEBUG] AVD Skin: WQVGA432
+[DEBUG] AVD ABI: armeabi-v7a
+[DEBUG] SDK: /Applications
+[INFO] Titanium SDK version: 3.1.3 (09/18/13 12:00 222f4d1)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] /Applications/tools/emulator -avd titanium_5_WQVGA432_armeabi-v7a -port 5560 -sdcard /Users/lucheins/.titanium/titanium_5_WQVGA432_armeabi-v7a.sdcard -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[INFO] Android Emulator has exited

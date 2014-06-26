@@ -1,0 +1,4 @@
+// this is a generated file - DO NOT EDIT
+
+TI_PAYPAL_OTHER_LDFLAGS=$(inherited) -ObjC -framework Security
+OTHER_LDFLAGS=$(inherited) $(TI_PAYPAL_OTHER_LDFLAGS) 

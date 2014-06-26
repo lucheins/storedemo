@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "ipad",
+	"iosSdkPath": "/Users/lucheins/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone",
+	"appGuid": "8170d5ae-40fe-4483-8cc9-83d42e9d601e",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "e62d1ff4e221eb026dcf113102c48dc8",
+	"nativeModulesHash": "cedbebf7ecc909f2a34f5886a1eaa7f3",
+	"gitHash": "222f4d1",
+	"name": "StoreApp",
+	"id": "com.mode54.storeapp",
+	"analytics": false,
+	"publisher": "Mode54.com",
+	"url": "http://Mode54.com",
+	"version": "1.5",
+	"description": "Demo of StoreApp Template",
+	"copyright": "not specified",
+	"guid": "8170d5ae-40fe-4483-8cc9-83d42e9d601e",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false
+}
